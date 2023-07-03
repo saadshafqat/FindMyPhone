@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="yescol">
+
+        <attr name="textcolor" format="color"/>
+        <attr name="textcolor2" format="color"/>
+        <attr name="backgroundColor" format="color"/>
+        <attr name="secondrycolor" format="color"/>
+        <attr name="cardcolor" format="color"/>
+
+
+
+
+    </declare-styleable>
+
+
+</resources>

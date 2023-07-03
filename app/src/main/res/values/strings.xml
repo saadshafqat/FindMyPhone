@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Find My Phone</string>
+    <string name="google_maps_api">AIzaSyABBMGggrPhK7zJ-cyH0ERMBufAxlAIhKE</string>
+    <plurals name="num_locations_reported">
+        <item quantity="zero">No location Reported</item>
+        <item quantity="one">One location Reported</item>
+        <item quantity="other">%d locations reported</item>
+    </plurals>
+    <string name="title_activity_show_on_map">showOnMap</string>
+
+</resources>
